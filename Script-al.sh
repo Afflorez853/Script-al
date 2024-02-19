@@ -25,6 +25,7 @@ tasklist
 echo "Network statistics"
 netstat
 
-
+#Mostrar Ip config
+echo "Shows entered ip is: $ip_address"
 
 
