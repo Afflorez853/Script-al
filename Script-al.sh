@@ -21,6 +21,9 @@ hostname
 echo "running processes"
 tasklist
 
+#Mostrar estadisticas de red
+echo "Network statistics"
+netstat
 
 
 
