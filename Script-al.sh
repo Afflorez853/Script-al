@@ -13,3 +13,8 @@ command_to_run="start /b notepad.exe"
 nohup $command_to_run > output.txt 2>&1 &
 echo "The command is running"
 
+#Nombre del equipo
+echo "Team  Name"
+hostname
+
+
