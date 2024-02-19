@@ -17,4 +17,11 @@ echo "The command is running"
 echo "Team  Name"
 hostname
 
+#Mostrar lista de procesos
+echo "running processes"
+tasklist
+
+
+
+
 
