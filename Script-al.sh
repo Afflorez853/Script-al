@@ -28,4 +28,8 @@ netstat
 #Mostrar Ip config
 echo "Shows entered ip is: $ip_address"
 
+# Mostrar Diferencias entre archivos
+echo "Diferencias entre archivos:" 
+git diff
 
+echo "operación completada."
