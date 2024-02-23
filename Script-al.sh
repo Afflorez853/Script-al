@@ -33,3 +33,9 @@ echo "Diferencias entre archivos:"
 git diff
 
 echo "operación completada."
+
+# Clonar un repositorio remoto
+git clone https://github.com/usuario/repo.git
+echo "Repositorio remoto clonado."
+
+echo "Operación completada."
